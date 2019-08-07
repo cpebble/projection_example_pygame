@@ -1,0 +1,3 @@
+[submodule "vec2d"]
+	path = vec2d
+	url = git@github.com:mrcpj1998/vec2d
